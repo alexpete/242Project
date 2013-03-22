@@ -3,7 +3,7 @@
 %
 % The following m files must be in the current MATLAB search path
 %
-% makebml.m, movecars.mexw64, bmlplot.m, 
+% makebml.m, movecars.mexw64 (or movecars.mexa64 for Unix), bmlplot.m
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 classdef BML
