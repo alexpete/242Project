@@ -1,4 +1,6 @@
-%% This function plots a BML object
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% bmlplot.m - This function plots a BML object
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function bmlplot(c, x, y, nrow, ncol)
 

@@ -1,6 +1,8 @@
-/*
-Check if the position (xval, yval) is already occupied.  If so, return 0, else 1.
-*/
+/*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\ free2mv.c
+\
+\ Checks if the position (xval, yval) is already occupied.  If so, return 0, else 1.
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
 
 #include "free2mv.h"
 

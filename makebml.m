@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% This function creates a BML object
+% makebml.m - This function creates a BML object
 % Inputs:
 %
 %    rho: density of grid

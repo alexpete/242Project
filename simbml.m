@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% This function simulates the Biham-Middleton-Levine 
+% simbml.m - This function simulates the Biham-Middleton-Levine 
 % Traffic Model.
 %
 % Inputs:

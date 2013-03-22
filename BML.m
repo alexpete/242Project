@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Class Definition for BML grid
+% BML.m - Class Definition for BML grid
 %
 % The following m files must be in the current MATLAB search path
 %
